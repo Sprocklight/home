@@ -1302,6 +1302,10 @@ input, select, textarea {
 				font-size: 2rem;
 			}
 
+i {
+    vertical-align: middle;
+}
+
 		#header .content {
 			border-style: solid;
 			border-color: #FFFFFF;
